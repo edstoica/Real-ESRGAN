@@ -1,5 +1,5 @@
 # Fork of edstoica
-this for is just for personal use
+this fork is just for personal use
 
 # Real-ESRGAN
 
